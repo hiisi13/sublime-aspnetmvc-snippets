@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@Html.HiddenFor(model => model.${1:Property})
+]]></content>
+	<tabTrigger>.hf</tabTrigger>
+	<description>@Html.HiddenFor</description>
+</snippet>

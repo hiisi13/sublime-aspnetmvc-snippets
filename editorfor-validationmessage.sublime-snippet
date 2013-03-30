@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@Html.EditorFor(model => model.${1:Property})
+@Html.ValidationMessageFor(x => x.${1:Property})
+]]></content>
+	<tabTrigger>.editor</tabTrigger>
+	<description>@Html.EditorFor with validation message</description>
+</snippet>

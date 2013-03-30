@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@using (Ajax.BeginForm("${1:Action}", new ${2:AjaxOptions} ${3:{ UpdateTargetId = "${4:targetId}" }}))
+{
+	
+}
+]]></content>
+	<tabTrigger>.ajaxform</tabTrigger>
+	<description>@Ajax.BeginForm template</description>
+</snippet>

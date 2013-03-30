@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@Html.TextBoxFor(model => model.${1:Property})
+]]></content>
+	<tabTrigger>.tbf</tabTrigger>
+	<description>@Html.TextBoxFor</description>
+</snippet>

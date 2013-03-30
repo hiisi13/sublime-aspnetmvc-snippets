@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+@Html.Partial("${:templateName}")
+]]></content>
+	<tabTrigger>.part</tabTrigger>
+	<description>@Html.Partial</description>
+</snippet>
